@@ -1,4 +1,4 @@
-// Obsługa przycisku
+// Button control
 
 int buttonState = 0;
 
